@@ -1,16 +1,3 @@
-/* CS 314 STUDENTS: FILL IN THIS HEADER AND THEN COPY AND PASTE IT TO YOUR
- * LetterInventory.java AND AnagramSolver.java CLASSES.
- *
- * Student information for assignment:
- *
- *  On my honor, Ami Dave, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID: ad56333
- *  email address: amidave@utexas.edu
- *  TA name: Devon
- *  Number of slip days I am using: 0
- */
 public class LetterInventory {
 	final int NUM_LETTERS_IN_ALPHABET;
 	int[] letterFrequencies;
